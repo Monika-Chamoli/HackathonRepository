@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="25.791">
+    <testcase classname="Feature to View Product page" name="To verify product page on flipkart" time="25.648">
+        <system-out><![CDATA[Given user is on flipkart login page........................................passed
+When user clicks on SignIn..................................................passed
+And user enters username "8377899666" and password "Monika123"..............passed
+And user navigates to Remote-control toys...................................passed
+Then user view Product Page.................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

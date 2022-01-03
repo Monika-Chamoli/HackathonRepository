@@ -1,0 +1,6 @@
+AppHooks\Hooks.class
+Runners\MyTestRunner.class
+stepDefs\FileUploadSteps.class
+stepDefs\ViewPageSteps.class
+stepDefs\AddCartSteps.class
+stepDefs\SortProduct.class
